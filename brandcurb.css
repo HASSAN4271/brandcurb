@@ -61,6 +61,7 @@ nav {
     justify-content: center;
     position: sticky;
     top: 0;
+    z-index: 100;
     background-color: white;
 }
 .nav-bar {
@@ -805,4 +806,5 @@ nav {
     line-height: 1.5;
     margin-bottom: 50px;
     color: rgba(0, 0, 0, 0.74);
+
 }
